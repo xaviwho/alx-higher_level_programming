@@ -20,4 +20,8 @@ listint_t *add_nodeint(listint_t **head, const int n);
 void free_listint(listint_t *head);
 int check_cycle(listint_t *list);
 
+<<<<<<< HEAD
 #endif /* LISTS_H */
+=======
+#endif /* LISTS_H */
+>>>>>>> 48274f5abe1cc57d58a9ce9197b4f3fabb355172
